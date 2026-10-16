@@ -392,3 +392,5 @@ Cool projects that don't pertain to Gemini CLI specifically but do utilitize Gem
 ## Contributing
 
 Contributions are highly valued!  See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+<!-- star-check playground test -->
